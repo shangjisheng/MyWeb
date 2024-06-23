@@ -1,18 +1,1 @@
-QQ:<font color=blue>123</font>密码:<font color=red>123</font>
-
-QQ:<font color=blue>1234</font>密码:<font color=red>1234</font>
-
-QQ:<font color=blue>123</font>密码:<font color=red>4444</font>IP地址:<font color=red>127.0.0.1</font>
-
-QQ:<font color=blue>333</font>密码:<font color=red>444</font>IP地址:<font color=red>127.0.0.1</font>
-
-QQ:<font color=blue>555</font>密码:<font color=red>555</font>IP地址:<font color=red>127.0.0.1</font>
-
-QQ:<font color=blue>666</font>密码:<font color=red>666</font>IP地址:<font color=yellow>127.0.0.1</font>
-
-QQ:<font color=blue>777</font>密码:<font color=red>777</font>IP地址:<font color=grey>127.0.0.1</font>
-
-QQ:<font color=blue>2323</font>密码:<font color=red>2323</font>IP地址:<font color=grey>127.0.0.1</font>
-
-QQ:<font color=blue>222</font>密码:<font color=red>333</font>IP地址:<font color=grey>127.0.0.1</font>
 
